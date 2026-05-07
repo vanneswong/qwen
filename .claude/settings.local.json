@@ -3,7 +3,8 @@
     "allow": [
       "Bash(git add *)",
       "Bash(git push *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "WebFetch(domain:co.invoiceup.cn)"
     ]
   }
 }

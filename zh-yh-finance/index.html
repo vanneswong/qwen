@@ -54,7 +54,11 @@
           <div class="logo-text">中元华信<span>财税</span></div>
         </div>
         <ul class="nav-menu">
-          <!-- Dynamic rendered by JS -->
+          <li><a href="#home">首页</a></li>
+          <li><a href="#about">关于我们</a></li>
+          <li><a href="#services">服务项目</a></li>
+          <li><a href="/blog.html">资讯动态</a></li>
+          <li><a href="#contact">联系我们</a></li>
         </ul>
         <div class="nav-actions">
           <div class="language-switch">
@@ -126,7 +130,54 @@
         <p class="section-subtitle">为初创小微企业提供全方位财税解决方案</p>
       </div>
       <div class="services-grid">
-        <!-- Dynamic rendered by JS -->
+        <div class="service-card">
+          <div class="service-icon">🏢</div>
+          <h3>公司注册</h3>
+          <p class="summary">快速办理内资及外资代表处注册，全程代办，省时省力</p>
+          <ul class="service-list">
+            <li>→ 外资代表处设立登记</li>
+            <li>→ 营业执照代办</li>
+            <li>→ 银行开户协助</li>
+            <li>→ 印章刻制备案</li>
+          </ul>
+          <div class="service-meta">
+            <div class="service-meta-item"><span class="icon">💰</span><span>¥3000-8000</span></div>
+            <div class="service-meta-item"><span class="icon">⏱</span><span>3-15 工作日</span></div>
+          </div>
+          <a href="/service-company-registration.html" class="btn btn-secondary btn-sm">查看详情</a>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">📊</div>
+          <h3>税务筹划</h3>
+          <p class="summary">合法合规降低税负，最大化享受税收优惠政策</p>
+          <ul class="service-list">
+            <li>→ 企业税负优化方案</li>
+            <li>→ 税收优惠政策申请</li>
+            <li>→ 跨境税务规划</li>
+            <li>→ 个人所得税筹划</li>
+          </ul>
+          <div class="service-meta">
+            <div class="service-meta-item"><span class="icon">💰</span><span>¥5000-20000</span></div>
+            <div class="service-meta-item"><span class="icon">⏱</span><span>7-30 工作日</span></div>
+          </div>
+          <a href="/service-tax-planning.html" class="btn btn-secondary btn-sm">查看详情</a>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">✅</div>
+          <h3>税务合规</h3>
+          <p class="summary">全面税务风险评估，确保企业经营安全无忧</p>
+          <ul class="service-list">
+            <li>→ 税务健康检查</li>
+            <li>→ 税务内控体系建设</li>
+            <li>→ 纳税申报代理</li>
+            <li>→ 税务争议协调</li>
+          </ul>
+          <div class="service-meta">
+            <div class="service-meta-item"><span class="icon">💰</span><span>¥3000-10000</span></div>
+            <div class="service-meta-item"><span class="icon">⏱</span><span>5-15 工作日</span></div>
+          </div>
+          <a href="/service-tax-compliance.html" class="btn btn-secondary btn-sm">查看详情</a>
+        </div>
       </div>
     </div>
   </section>
@@ -141,7 +192,30 @@
       </div>
       <div class="selector-container">
         <div class="selector-options">
-          <!-- Dynamic rendered by JS -->
+          <div class="selector-option" data-service-id="company-registration">
+            <div class="selector-checkbox">✓</div>
+            <div class="selector-info">
+              <h4>公司注册</h4>
+              <p>快速办理内资及外资代表处注册，全程代办</p>
+            </div>
+            <div class="selector-price">¥3000-8000</div>
+          </div>
+          <div class="selector-option" data-service-id="tax-planning">
+            <div class="selector-checkbox">✓</div>
+            <div class="selector-info">
+              <h4>税务筹划</h4>
+              <p>合法合规降低税负，最大化享受税收优惠</p>
+            </div>
+            <div class="selector-price">¥5000-20000</div>
+          </div>
+          <div class="selector-option" data-service-id="tax-compliance">
+            <div class="selector-checkbox">✓</div>
+            <div class="selector-info">
+              <h4>税务合规</h4>
+              <p>全面税务风险评估，确保企业经营安全</p>
+            </div>
+            <div class="selector-price">¥3000-10000</div>
+          </div>
         </div>
         <div class="selector-result">
           <div class="result-header">
@@ -235,7 +309,33 @@
         <p class="section-subtitle">财税政策解读、行业动态分享</p>
       </div>
       <div class="blog-grid">
-        <!-- Dynamic rendered by JS -->
+        <div class="blog-card" onclick="window.location.href='/blog-detail.html?id=1'">
+          <div class="blog-card-image">🌐</div>
+          <div class="blog-card-content">
+            <span class="blog-card-category">外资专题</span>
+            <h4>2024年外资代表处注册新政策解读</h4>
+            <p>2024年国家对外资代表处注册政策进行了重要调整，本文详细解读新政策的变化要点及对企业的影响。</p>
+            <div class="blog-card-meta"><span>2024-03-15</span><span>财税专家团队</span></div>
+          </div>
+        </div>
+        <div class="blog-card" onclick="window.location.href='/blog-detail.html?id=2'">
+          <div class="blog-card-image">🚀</div>
+          <div class="blog-card-content">
+            <span class="blog-card-category">初创企业</span>
+            <h4>初创企业税收优惠政策大全</h4>
+            <p>汇总整理适用于初创小微企业的各类税收优惠政策，帮助企业合理节税。</p>
+            <div class="blog-card-meta"><span>2024-02-28</span><span>税务筹划组</span></div>
+          </div>
+        </div>
+        <div class="blog-card" onclick="window.location.href='/blog-detail.html?id=3'">
+          <div class="blog-card-image">📖</div>
+          <div class="blog-card-content">
+            <span class="blog-card-category">操作指南</span>
+            <h4>公司注册全流程详解</h4>
+            <p>从名称核准到领取营业执照，详解公司注册的每一个步骤。</p>
+            <div class="blog-card-meta"><span>2024-01-20</span><span>注册服务组</span></div>
+          </div>
+        </div>
       </div>
       <div style="text-align: center; margin-top: 2rem;">
         <a href="/blog.html" class="btn btn-secondary" data-i18n="labels.readMore">查看更多</a>
