@@ -44,28 +44,24 @@
 <body>
     <!-- Header Navigation -->
     <header class="header">
-        <div class="container">
-            <nav class="navbar">
-                <div class="logo">
-                    <span class="logo-text">中元华信财税</span>
-                </div>
-                <ul class="nav-menu">
-                    <li><a href="/index.html">首页</a></li>
-                    <li><a href="/index.html#about">关于我们</a></li>
-                    <li><a href="/index.html#services">服务项目</a></li>
-                    <li><a href="/index.html#contact">联系我们</a></li>
-                </ul>
-                <div class="nav-contact">
-                    <a href="tel:+86769XXXXXXXX" class="btn-phone">📞 电话咨询</a>
-                </div>
-                <button class="mobile-menu-btn" aria-label="菜单">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </button>
-            </nav>
+    <div class="container">
+      <nav class="navbar">
+        <div class="logo"><div class="logo-icon">ZH</div><div class="logo-text">中元华信<span>财税</span></div></div>
+        <ul class="nav-menu">
+          <li><a href="/index.html">首页</a></li>
+          <li><a href="/index.html#about">关于我们</a></li>
+          <li><a href="/index.html#services">服务项目</a></li>
+          <li><a href="/blog.html">资讯动态</a></li>
+          <li><a href="/index.html#contact">联系我们</a></li>
+        </ul>
+        <div class="nav-actions">
+          <div class="language-switch"><span class="lang-option active" data-lang="zh">中文</span><span>/</span><span class="lang-option" data-lang="en">EN</span></div>
+          <a href="tel:+86769XXXXXXXX" class="btn btn-primary btn-sm">📞 电话咨询</a>
         </div>
-    </header>
+        <button class="mobile-menu-btn" aria-label="菜单"><span></span><span></span><span></span></button>
+      </nav>
+    </div>
+  </header>
 
     <!-- Page Hero Section -->
     <section class="page-hero">
@@ -174,7 +170,7 @@
 
             <div class="service-process">
                 <h2>办理流程</h2>
-                <div class="process-steps">
+                <div class="process-steps-grid">
                     <div class="step">
                         <div class="step-number">1</div>
                         <h4>需求调研</h4>
@@ -248,41 +244,16 @@
 
     <!-- Footer -->
     <footer class="footer">
-        <div class="container">
-            <div class="footer-content">
-                <div class="footer-section">
-                    <h4>中元华信财税</h4>
-                    <p>专注初创小微企业财税服务<br>擅长外资代表处业务</p>
-                </div>
-                <div class="footer-section">
-                    <h4>快速链接</h4>
-                    <ul>
-                        <li><a href="/index.html">首页</a></li>
-                        <li><a href="/index.html#about">关于我们</a></li>
-                        <li><a href="/index.html#services">服务项目</a></li>
-                        <li><a href="/index.html#contact">联系我们</a></li>
-                    </ul>
-                </div>
-                <div class="footer-section">
-                    <h4>服务项目</h4>
-                    <ul>
-                        <li><a href="/service-company-registration.html">公司注册</a></li>
-                        <li><a href="/service-tax-planning.html">税务筹划</a></li>
-                        <li><a href="/service-tax-compliance.html">税务合规</a></li>
-                    </ul>
-                </div>
-                <div class="footer-section">
-                    <h4>联系方式</h4>
-                    <p>电话：+86-769-XXXXXXXX</p>
-                    <p>邮箱：info@zh-yh-finance.com</p>
-                </div>
-            </div>
-            <div class="footer-bottom">
-                <p>&copy; 2024 东莞中元华信财税服务有限公司 版权所有</p>
-                <p><a href="#">粤 ICP 备 XXXXXXXX 号</a></p>
-            </div>
-        </div>
-    </footer>
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-section footer-brand"><div class="logo"><div class="logo-icon">ZH</div><div class="logo-text">中元华信<span>财税</span></div></div><p>专注初创小微企业财税服务<br>擅长外资代表处业务</p></div>
+        <div class="footer-section"><h4>快速链接</h4><ul><li><a href="/index.html">首页</a></li><li><a href="/index.html#about">关于我们</a></li><li><a href="/index.html#services">服务项目</a></li><li><a href="/blog.html">资讯动态</a></li></ul></div>
+        <div class="footer-section"><h4>服务项目</h4><ul><li><a href="/service-company-registration.html">公司注册</a></li><li><a href="/service-tax-planning.html">税务筹划</a></li><li><a href="/service-tax-compliance.html">税务合规</a></li></ul></div>
+        <div class="footer-section"><h4>联系方式</h4><p>电话：+86-769-XXXXXXXX</p><p>邮箱：info@zh-yh-finance.com</p></div>
+      </div>
+      <div class="footer-bottom"><p>&copy; 2024 东莞中元华信财税服务有限公司 版权所有</p><p><a href="#">粤 ICP 备 XXXXXXXX 号</a></p></div>
+    </div>
+  </footer>
 
     <!-- Floating Contact Buttons -->
     <div class="floating-contact">
@@ -295,6 +266,10 @@
     </div>
 
     <!-- JavaScript -->
-    <script src="/js/main.js"></script>
+    <script src="/js/i18n.js"></script>
+  <script src="/js/renderer.js"></script>
+  <script src="/js/blog.js"></script>
+  <script src="/js/service-flow.js"></script>
+  <script src="/js/main.js"></script>
 </body>
 </html>
