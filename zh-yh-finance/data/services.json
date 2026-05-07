@@ -1,0 +1,431 @@
+{
+  "services": [
+    {
+      "id": "company-registration",
+      "icon": "building",
+      "title": "公司注册",
+      "titleEn": "Company Registration",
+      "summary": "快速办理内资及外资代表处注册，全程代办，省时省力",
+      "summaryEn": "Fast registration for domestic companies and foreign representative offices",
+      "priceRange": "3000-8000",
+      "duration": "3-15",
+      "durationUnit": "工作日",
+      "durationUnitEn": "working days",
+      "features": [
+        "外资代表处设立登记",
+        "营业执照代办",
+        "银行开户协助",
+        "印章刻制备案"
+      ],
+      "featuresEn": [
+        "Foreign representative office registration",
+        "Business license processing",
+        "Bank account opening assistance",
+        "Company seal registration"
+      ],
+      "detail": {
+        "intro": "东莞中元华信财税服务有限公司提供专业的公司注册服务，特别擅长外资代表处的设立登记。我们拥有丰富的实战经验，熟悉各类企业注册的流程和政策法规，能够为您提供从名称核准到营业执照领取的一站式服务。",
+        "introEn": "Professional company registration services specializing in foreign representative offices. One-stop service from name approval to business license.",
+        "sections": [
+          {
+            "title": "外资代表处设立登记",
+            "titleEn": "Foreign Representative Office Registration",
+            "desc": "专为外国企业在华设立代表处提供全流程服务",
+            "descEn": "Full-process service for foreign enterprises setting up representative offices",
+            "items": [
+              "代表处名称预先核准",
+              "外国企业主体资格公证认证",
+              "首席代表任命文件准备",
+              "办公场所租赁合同备案",
+              "工商登记申请提交",
+              "领取《外国（地区）企业常驻代表机构登记证》"
+            ],
+            "itemsEn": [
+              "Name pre-approval",
+              "Foreign enterprise qualification certification",
+              "Chief representative appointment documents",
+              "Office lease registration",
+              "Business registration application",
+              "Receive registration certificate"
+            ]
+          },
+          {
+            "title": "营业执照代办",
+            "titleEn": "Business License Processing",
+            "desc": "内资企业营业执照快速办理",
+            "descEn": "Fast business license processing for domestic companies",
+            "items": [
+              "企业名称自主申报",
+              "经营范围规范表述",
+              "注册资本认缴指导",
+              "股东及高管信息采集",
+              "公司章程起草审核",
+              "营业执照正副本领取"
+            ],
+            "itemsEn": [
+              "Enterprise name declaration",
+              "Business scope formulation",
+              "Registered capital guidance",
+              "Shareholder & executive info collection",
+              "Company articles drafting",
+              "Business license issuance"
+            ]
+          },
+          {
+            "title": "银行开户协助",
+            "titleEn": "Bank Account Opening",
+            "desc": "协助企业开立基本存款账户",
+            "descEn": "Assist in opening basic deposit accounts",
+            "items": [
+              "推荐合作银行网点",
+              "预约开户时间",
+              "准备开户所需材料",
+              "陪同办理开户手续",
+              "协助签署银行协议",
+              "领取银行卡及U盾"
+            ],
+            "itemsEn": [
+              "Recommended bank branches",
+              "Appointment scheduling",
+              "Document preparation",
+              "On-site assistance",
+              "Bank agreement signing",
+              "Bank card & security device"
+            ]
+          },
+          {
+            "title": "印章刻制备案",
+            "titleEn": "Company Seal Registration",
+            "desc": "正规渠道刻制企业印章并备案",
+            "descEn": "Official seal carving and registration",
+            "items": [
+              "公章刻制及备案",
+              "财务章刻制及备案",
+              "法人章刻制及备案",
+              "发票章刻制及备案",
+              "合同章刻制及备案（可选）",
+              "印章交付与使用指导"
+            ],
+            "itemsEn": [
+              "Official seal",
+              "Financial seal",
+              "Legal representative seal",
+              "Invoice seal",
+              "Contract seal (optional)",
+              "Seal delivery & guidance"
+            ]
+          }
+        ],
+        "advantages": [
+          { "icon": "fast", "title": "快速办理", "titleEn": "Fast Processing", "desc": "熟悉流程，高效操作，最快3-5个工作日完成注册", "descEn": "Efficient operation, 3-5 working days" },
+          { "icon": "accurate", "title": "专业精准", "titleEn": "Professional & Accurate", "desc": "资深顾问一对一指导，确保材料准确无误", "descEn": "One-on-one expert guidance" },
+          { "icon": "transparent", "title": "费用透明", "titleEn": "Transparent Pricing", "desc": "明码标价，无隐形消费，性价比最优", "descEn": "Clear pricing, no hidden costs" },
+          { "icon": "secure", "title": "安全保障", "titleEn": "Secure & Safe", "desc": "严格保密客户信息，确保数据安全", "descEn": "Strict confidentiality, data security" }
+        ],
+        "process": [
+          { "step": 1, "title": "咨询沟通", "titleEn": "Consultation", "desc": "了解客户需求，确定注册类型", "descEn": "Understand needs, determine registration type" },
+          { "step": 2, "title": "方案制定", "titleEn": "Plan Development", "desc": "定制专属注册方案，报价确认", "descEn": "Custom solution, price confirmation" },
+          { "step": 3, "title": "材料准备", "titleEn": "Document Preparation", "desc": "指导准备或代拟全部申请材料", "descEn": "Prepare or draft all application documents" },
+          { "step": 4, "title": "提交审批", "titleEn": "Application Submission", "desc": "向工商部门提交申请并跟进", "descEn": "Submit to authorities, follow up" },
+          { "step": 5, "title": "领取证照", "titleEn": "License Collection", "desc": "领取营业执照及相关证件", "descEn": "Receive business license and documents" },
+          { "step": 6, "title": "后续服务", "titleEn": "Follow-up Services", "desc": "银行开户、印章刻制等配套服务", "descEn": "Bank account, seal carving, etc." }
+        ],
+        "faqs": [
+          { "q": "注册一家公司需要多长时间？", "qEn": "How long does company registration take?", "a": "一般情况下，内资公司注册需要5-7个工作日，外资代表处注册需要10-15个工作日。具体时间取决于材料准备情况和审批进度。", "aEn": "Domestic companies: 5-7 working days. Foreign representative offices: 10-15 working days. Depends on document preparation and approval progress." },
+          { "q": "注册资本需要实缴吗？", "qEn": "Is registered capital required to be paid?", "a": "目前大部分行业实行注册资本认缴制，无需立即实缴。但部分特殊行业（如金融、保险等）仍需实缴，具体情况需根据行业规定确定。", "aEn": "Most industries use subscription system, no immediate payment required. Special industries (finance, insurance) may require actual payment." },
+          { "q": "外资代表处可以开展经营活动吗？", "qEn": "Can foreign representative offices conduct business?", "a": "外资代表处不能直接从事营利性经营活动，主要职能是进行市场调研、联络协调、宣传推广等非经营性活动。如需开展经营，建议设立外商投资企业。", "aEn": "Representative offices cannot conduct profit-making activities directly. Main functions: market research, coordination, promotion. For business operations, establish a foreign-invested enterprise." },
+          { "q": "注册公司需要提供什么材料？", "qEn": "What documents are needed for registration?", "a": "基本材料包括：公司名称、经营范围、注册资本、股东及出资比例、法定代表人及高管信息、注册地址证明等。外资企业还需提供外国投资者主体资格证明文件。", "aEn": "Basic documents: company name, business scope, registered capital, shareholders & ratios, legal representative info, registered address proof. Foreign enterprises need investor qualification documents." }
+        ],
+        "materials": [
+          { "name": "公司名称", "nameEn": "Company Name", "required": true, "desc": "3-5个备选名称", "descEn": "3-5 alternative names" },
+          { "name": "注册地址", "nameEn": "Registered Address", "required": true, "desc": "地址证明文件（租赁合同或产权证明）", "descEn": "Address proof (lease or property deed)" },
+          { "name": "股东信息", "nameEn": "Shareholder Info", "required": true, "desc": "身份证复印件（自然人）或营业执照（法人股东）", "descEn": "ID copies (individual) or business license (corporate shareholder)" },
+          { "name": "法定代表人信息", "nameEn": "Legal Representative Info", "required": true, "desc": "身份证复印件、联系方式", "descEn": "ID copy, contact info" },
+          { "name": "经营范围", "nameEn": "Business Scope", "required": true, "desc": "拟定经营范围描述", "descEn": "Proposed business activities" },
+          { "name": "注册资本", "nameEn": "Registered Capital", "required": true, "desc": "确定注册资本金额及出资比例", "descEn": "Capital amount and shareholder ratios" },
+          { "name": "公司章程", "nameEn": "Articles of Association", "required": false, "desc": "可由我们代拟", "descEn": "We can draft for you" }
+        ]
+      }
+    },
+    {
+      "id": "tax-planning",
+      "icon": "chart",
+      "title": "税务筹划",
+      "titleEn": "Tax Planning",
+      "summary": "合法合规降低税负，最大化享受税收优惠政策",
+      "summaryEn": "Legally reduce tax burden, maximize tax incentives",
+      "priceRange": "5000-20000",
+      "duration": "7-30",
+      "durationUnit": "工作日",
+      "durationUnitEn": "working days",
+      "features": [
+        "企业税负优化方案",
+        "税收优惠政策申请",
+        "跨境税务规划",
+        "个人所得税筹划"
+      ],
+      "featuresEn": [
+        "Corporate tax optimization",
+        "Tax incentive applications",
+        "Cross-border tax planning",
+        "Personal income tax planning"
+      ],
+      "detail": {
+        "intro": "我们提供专业的税务筹划服务，在合法合规的前提下，帮助企业优化税负结构，充分享受各类税收优惠政策，实现经济效益最大化。",
+        "introEn": "Professional tax planning services to optimize tax burden legally, maximize tax incentives, and achieve economic benefits.",
+        "sections": [
+          {
+            "title": "企业税负优化",
+            "titleEn": "Corporate Tax Optimization",
+            "desc": "全面分析企业税务状况，制定优化方案",
+            "descEn": "Comprehensive tax analysis and optimization",
+            "items": [
+              "企业所得税筹划",
+              "增值税优化方案",
+              "附加税费减免申请",
+              "研发费用加计扣除",
+              "小微企业税收优惠申请"
+            ],
+            "itemsEn": [
+              "Corporate income tax planning",
+              "VAT optimization",
+              "Additional tax reduction",
+              "R&D expense deduction",
+              "Small business tax incentives"
+            ]
+          },
+          {
+            "title": "税收优惠政策申请",
+            "titleEn": "Tax Incentive Applications",
+            "desc": "帮助企业申请各类税收优惠政策",
+            "descEn": "Apply for various tax incentive programs",
+            "items": [
+              "高新技术企业认定申请",
+              "软件企业税收优惠",
+              "区域性税收优惠政策",
+              "行业专项税收减免",
+              "出口退税办理"
+            ],
+            "itemsEn": [
+              "High-tech enterprise certification",
+              "Software enterprise tax benefits",
+              "Regional tax incentives",
+              "Industry-specific tax reduction",
+              "Export tax rebate"
+            ]
+          },
+          {
+            "title": "跨境税务规划",
+            "titleEn": "Cross-border Tax Planning",
+            "desc": "外资企业跨境税务专业服务",
+            "descEn": "Professional cross-border tax services",
+            "items": [
+              "跨境交易税务合规",
+              "非居民纳税人服务",
+              "转让定价合规咨询",
+              "境外所得税收抵免",
+              "双边税收协定应用"
+            ],
+            "itemsEn": [
+              "Cross-border transaction compliance",
+              "Non-resident taxpayer services",
+              "Transfer pricing compliance",
+              "Foreign income tax credit",
+              "Bilateral tax treaty application"
+            ]
+          },
+          {
+            "title": "个人所得税筹划",
+            "titleEn": "Personal Income Tax Planning",
+            "desc": "高管及员工个人所得税优化",
+            "descEn": "Executive and employee tax optimization",
+            "items": [
+              "薪酬结构优化设计",
+              "股权激励税务规划",
+              "年终奖税务优化",
+              "专项附加扣除指导",
+              "外籍个人税收优惠"
+            ],
+            "itemsEn": [
+              "Salary structure optimization",
+              "Equity incentive tax planning",
+              "Year-end bonus optimization",
+              "Special additional deductions",
+              "Foreign individual tax benefits"
+            ]
+          }
+        ],
+        "advantages": [
+          { "icon": "legal", "title": "合法合规", "titleEn": "Legal Compliance", "desc": "所有筹划方案均符合税法规定", "descEn": "All plans comply with tax laws" },
+          { "icon": "expert", "title": "专业团队", "titleEn": "Expert Team", "desc": "资深税务师全程服务", "descEn": "Senior tax specialists throughout" },
+          { "icon": "custom", "title": "量身定制", "titleEn": "Customized Plans", "desc": "根据企业实际情况制定方案", "descEn": "Tailored to your business situation" },
+          { "icon": "update", "title": "持续跟进", "titleEn": "Continuous Support", "desc": "政策变化及时调整方案", "descEn": "Adjust plans with policy changes" }
+        ],
+        "process": [
+          { "step": 1, "title": "税务诊断", "titleEn": "Tax Assessment", "desc": "全面分析企业现有税务状况", "descEn": "Comprehensive tax situation analysis" },
+          { "step": 2, "title": "方案设计", "titleEn": "Plan Design", "desc": "制定个性化税务筹划方案", "descEn": "Design personalized tax plan" },
+          { "step": 3, "title": "方案评审", "titleEn": "Plan Review", "desc": "专家团队审核方案可行性", "descEn": "Expert team feasibility review" },
+          { "step": 4, "title": "方案执行", "titleEn": "Implementation", "desc": "协助企业落实筹划方案", "descEn": "Help implement the plan" },
+          { "step": 5, "title": "效果评估", "titleEn": "Effect Evaluation", "desc": "评估筹划效果，持续优化", "descEn": "Evaluate results, continuous optimization" }
+        ],
+        "faqs": [
+          { "q": "税务筹划是否合法？", "qEn": "Is tax planning legal?", "a": "税务筹划是在法律允许范围内，通过对经营活动的事先筹划和安排，合法减轻税负的行为。这与逃税、偷税完全不同，是合规的节税行为。", "aEn": "Tax planning is legal optimization within law. Different from tax evasion, it's legitimate tax reduction." },
+          { "q": "筹划能节省多少税费？", "qEn": "How much tax can be saved?", "a": "节省幅度因企业情况各异。一般通过合理筹划可节省10%-30%的税负，具体需根据企业实际情况评估。", "aEn": "Savings vary by company. Generally 10%-30% reduction, depends on individual situation." },
+          { "q": "外资企业有哪些特殊税收优惠？", "qEn": "What special tax incentives for foreign enterprises?", "a": "外资企业可享受区域性税收优惠（如自贸区）、行业性优惠、税收协定优惠等。我们熟悉各类优惠政策，可帮您最大化享受。", "aEn": "Foreign enterprises enjoy regional incentives (FTZ), industry benefits, tax treaty advantages. We help maximize these." }
+        ],
+        "materials": [
+          { "name": "财务报表", "nameEn": "Financial Statements", "required": true, "desc": "近两年财务报表及纳税申报表", "descEn": "Recent two years' financials and tax returns" },
+          { "name": "业务说明", "nameEn": "Business Description", "required": true, "desc": "主营业务及经营模式说明", "descEn": "Main business and operation model" },
+          { "name": "组织架构", "nameEn": "Organization Structure", "required": false, "desc": "企业组织架构及人员情况", "descEn": "Company structure and staffing" },
+          { "name": "关联交易", "nameEn": "Related Transactions", "required": false, "desc": "跨境或关联交易情况说明", "descEn": "Cross-border or related party transactions" }
+        ]
+      }
+    },
+    {
+      "id": "tax-compliance",
+      "icon": "check",
+      "title": "税务合规",
+      "titleEn": "Tax Compliance",
+      "summary": "全面税务风险评估，确保企业经营安全无忧",
+      "summaryEn": "Comprehensive tax risk assessment for secure operations",
+      "priceRange": "3000-10000",
+      "duration": "5-15",
+      "durationUnit": "工作日",
+      "durationUnitEn": "working days",
+      "features": [
+        "税务健康检查",
+        "税务内控体系建设",
+        "纳税申报代理",
+        "税务争议协调"
+      ],
+      "featuresEn": [
+        "Tax health check",
+        "Tax control system",
+        "Tax filing services",
+        "Tax dispute resolution"
+      ],
+      "detail": {
+        "intro": "税务合规是企业稳健经营的基础。我们提供全面的税务合规服务，帮助企业建立完善的税务内控体系，防范税务风险，确保企业财税安全。",
+        "introEn": "Tax compliance is the foundation of stable business operations. We provide comprehensive compliance services to build internal controls and prevent tax risks.",
+        "sections": [
+          {
+            "title": "税务健康检查",
+            "titleEn": "Tax Health Check",
+            "desc": "全面诊断企业税务状况",
+            "descEn": "Comprehensive tax diagnosis",
+            "items": [
+              "企业所得税合规检查",
+              "增值税申报合规检查",
+              "个人所得税代扣代缴检查",
+              "发票使用合规检查",
+              "税务档案完整性检查"
+            ],
+            "itemsEn": [
+              "Corporate income tax compliance",
+              "VAT filing compliance",
+              "Personal income tax withholding",
+              "Invoice usage compliance",
+              "Tax document completeness"
+            ]
+          },
+          {
+            "title": "税务内控体系建设",
+            "titleEn": "Tax Control System",
+            "desc": "建立完善的税务风险防控机制",
+            "descEn": "Build comprehensive tax risk control",
+            "items": [
+              "税务风险识别与评估",
+              "税务管理制度设计",
+              "税务岗位职责明确",
+              "税务流程标准化",
+              "税务培训与宣导"
+            ],
+            "itemsEn": [
+              "Tax risk identification",
+              "Tax management policy design",
+              "Tax role responsibilities",
+              "Tax process standardization",
+              "Tax training and awareness"
+            ]
+          },
+          {
+            "title": "纳税申报代理",
+            "titleEn": "Tax Filing Services",
+            "desc": "专业团队代为办理各项纳税申报",
+            "descEn": "Professional team handles all tax filings",
+            "items": [
+              "月度/季度纳税申报",
+              "年度企业所得税汇算",
+              "个人所得税代扣代缴申报",
+              "增值税发票认证抵扣",
+              "税收统计报表填报"
+            ],
+            "itemsEn": [
+              "Monthly/quarterly tax filings",
+              "Annual corporate income tax settlement",
+              "Personal income tax withholding filing",
+              "VAT invoice certification",
+              "Tax statistical reports"
+            ]
+          },
+          {
+            "title": "税务争议协调",
+            "titleEn": "Tax Dispute Resolution",
+            "desc": "协助解决税务检查与争议问题",
+            "descEn": "Resolve tax audits and disputes",
+            "items": [
+              "税务检查应对辅导",
+              "税务行政处罚申辩",
+              "税务行政复议申请",
+              "税务稽查案件协调",
+              "涉税刑事案件辩护配合"
+            ],
+            "itemsEn": [
+              "Tax audit response guidance",
+              "Tax penalty defense",
+              "Tax administrative review",
+              "Tax inspection coordination",
+              "Criminal tax case support"
+            ]
+          }
+        ],
+        "advantages": [
+          { "icon": "thorough", "title": "全面细致", "titleEn": "Thorough & Detailed", "desc": "覆盖所有税种，不留风险死角", "descEn": "All tax types, no risk blind spots" },
+          { "icon": "preventive", "title": "预防为主", "titleEn": "Preventive Focus", "desc": "提前发现并解决潜在风险", "descEn": "Discover and solve risks early" },
+          { "icon": "documented", "title": "文档规范", "titleEn": "Proper Documentation", "desc": "建立完善的税务档案体系", "descEn": "Complete tax documentation system" },
+          { "icon": "support", "title": "持续支持", "titleEn": "Ongoing Support", "desc": "定期检查，长期跟踪服务", "descEn": "Regular checks, long-term support" }
+        ],
+        "process": [
+          { "step": 1, "title": "风险评估", "titleEn": "Risk Assessment", "desc": "识别企业现有税务风险点", "descEn": "Identify existing tax risks" },
+          { "step": 2, "title": "方案制定", "titleEn": "Plan Development", "desc": "制定合规整改方案", "descEn": "Develop compliance plan" },
+          { "step": 3, "title": "体系建设", "titleEn": "System Setup", "desc": "建立税务内控体系", "descEn": "Build tax control system" },
+          { "step": 4, "title": "持续监控", "titleEn": "Continuous Monitoring", "desc": "定期检查，持续改进", "descEn": "Regular checks, improvement" },
+          { "step": 5, "title": "年度复核", "titleEn": "Annual Review", "desc": "年度合规复核与评估", "descEn": "Annual compliance review" }
+        ],
+        "faqs": [
+          { "q": "税务检查频率是多少？", "qEn": "How often are tax audits?", "a": "税务检查频率取决于企业规模、行业风险等级等因素。一般企业每年至少进行一次自查，高风险行业建议每季度自查一次。", "aEn": "Audit frequency depends on company size and industry risk. Self-check at least annually, quarterly for high-risk industries." },
+          { "q": "发现税务问题如何处理？", "qEn": "How to handle discovered tax issues?", "a": "发现问题后，我们会立即分析原因，制定整改方案，并协助企业向税务机关主动申报更正，争取减免处罚。", "aEn": "We analyze causes, develop rectification plans, and assist with voluntary corrections to minimize penalties." },
+          { "q": "税务合规服务费用如何？", "qEn": "What are compliance service costs?", "a": "费用根据企业规模和业务复杂度确定，一般基础合规检查服务费3000-5000元，全面合规体系建设10000元以上。", "aEn": "Costs depend on company size and complexity. Basic check: 3000-5000 yuan. Full system: 10000+ yuan." }
+        ],
+        "materials": [
+          { "name": "税务申报资料", "nameEn": "Tax Filing Documents", "required": true, "desc": "近两年各类纳税申报表", "descEn": "Recent two years' tax returns" },
+          { "name": "财务账册", "nameEn": "Financial Records", "required": true, "desc": "会计账簿、凭证等", "descEn": "Accounting books, vouchers" },
+          { "name": "发票记录", "nameEn": "Invoice Records", "required": true, "desc": "发票开具与取得记录", "descEn": "Invoice issuance and receipt records" },
+          { "name": "合同档案", "nameEn": "Contract Archives", "required": false, "desc": "重要业务合同", "descEn": "Key business contracts" }
+        ]
+      }
+    }
+  ],
+  "pricing": {
+    "baseFee": 500,
+    "baseFeeEn": "Base consultation fee",
+    "currency": "元",
+    "currencyEn": "CNY"
+  },
+  "flow": {
+    "title": "服务流程可视化",
+    "titleEn": "Service Process Visualization",
+    "subtitle": "选择您需要的服务组合",
+    "subtitleEn": "Select your service combination"
+  }
+}

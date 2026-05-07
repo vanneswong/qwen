@@ -1,0 +1,80 @@
+{
+  "lang": "en",
+  "direction": "ltr",
+  "labels": {
+    "phoneConsult": "Call Now",
+    "wechatConsult": "WeChat",
+    "freeConsult": "Free Consultation",
+    "learnMore": "Learn More",
+    "submit": "Submit Inquiry",
+    "viewDetails": "View Details",
+    "readMore": "Read More",
+    "allCategories": "All",
+    "recentNews": "Latest News",
+    "relatedArticles": "Related Articles",
+    "materialsRequired": "Required Materials",
+    "serviceProcess": "Service Process",
+    "faq": "FAQ",
+    "selectService": "Select Service",
+    "generateMaterials": "Generate Materials",
+    "estimateFee": "Estimate Fee",
+    "feeRange": "Fee Range",
+    "estimatedDuration": "Estimated Duration",
+    "backHome": "Back to Home",
+    "languageSwitch": "Language",
+    "form": {
+      "name": "Name",
+      "phone": "Phone",
+      "company": "Company Name",
+      "service": "Service Interest",
+      "message": "Message",
+      "placeholder": {
+        "name": "Enter your name",
+        "phone": "Enter your phone number",
+        "company": "Enter company name (optional)",
+        "service": "Select a service",
+        "message": "Briefly describe your needs"
+      },
+      "other": "Other Inquiry",
+      "success": "Submitted! We will contact you soon",
+      "error": "Please fill in name and phone"
+    },
+    "footer": {
+      "copyright": "All Rights Reserved",
+      "icp": "Registration Number"
+    },
+    "notifications": {
+      "success": "Submitted! We will contact you soon",
+      "error": "Please fill in name and phone"
+    },
+    "serviceSelector": {
+      "title": "Select Your Service Combination",
+      "subtitle": "Check required services to auto-generate materials list and fee estimate",
+      "selected": "Selected Services",
+      "noneSelected": "Please select at least one service",
+      "calculate": "Calculate Fee"
+    },
+    "blog": {
+      "pageTitle": "News & Updates",
+      "pageSubtitle": "Industry news, policy insights, and professional knowledge",
+      "noArticles": "No articles found",
+      "filterBy": "Filter by Category"
+    }
+  },
+  "seo": {
+    "index": {
+      "title": "Zhong Yuan Huaxin Finance & Tax Services - Foreign Representative Office Registration",
+      "description": "Professional finance and tax services for startups, specializing in foreign representative office registration, tax planning, and compliance.",
+      "keywords": "Dongguan tax services, foreign representative office, tax planning, tax compliance, company registration"
+    },
+    "blog": {
+      "title": "News & Updates - Zhong Yuan Huaxin Finance & Tax Services",
+      "description": "Latest industry news, policy insights, and professional knowledge sharing.",
+      "keywords": "tax news, policy insights, tax knowledge, industry updates"
+    },
+    "serviceDetail": {
+      "titleTemplate": "{title} - Zhong Yuan Huaxin Finance & Tax",
+      "descriptionTemplate": "{summary}"
+    }
+  }
+}

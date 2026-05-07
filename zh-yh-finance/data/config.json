@@ -1,0 +1,119 @@
+{
+  "site": {
+    "name": "中元华信财税",
+    "nameEn": "Zhong Yuan Huaxin Finance",
+    "fullName": "东莞中元华信财税服务有限公司",
+    "fullNameEn": "Zhong Yuan Huaxin Finance & Tax Service Co., Ltd.",
+    "description": "专注外资代表处注册与税务合规",
+    "descriptionEn": "Focus on Foreign Representative Office Registration & Tax Compliance"
+  },
+  "contact": {
+    "phone": "+86-769-XXXXXXXX",
+    "email": "info@zh-yh-finance.com",
+    "address": "广东省东莞市 XXXX 区 XXXX 路 XX 号",
+    "addressEn": "XXXX Road, XXXX District, Dongguan, Guangdong, China",
+    "wechat": "扫码添加官方微信",
+    "wechatEn": "Scan to add our WeChat",
+    "icp": "粤 ICP 备 XXXXXXXX 号",
+    "workingHours": "周一至周五 09:00-18:00",
+    "workingHoursEn": "Mon-Fri 09:00-18:00"
+  },
+  "nav": {
+    "items": [
+      { "key": "home", "label": "首页", "labelEn": "Home", "href": "/" },
+      { "key": "about", "label": "关于我们", "labelEn": "About", "href": "#about" },
+      { "key": "services", "label": "服务项目", "labelEn": "Services", "href": "#services" },
+      { "key": "blog", "label": "资讯动态", "labelEn": "News", "href": "/blog.html" },
+      { "key": "contact", "label": "联系我们", "labelEn": "Contact", "href": "#contact" }
+    ]
+  },
+  "hero": {
+    "title": "专注外资代表处注册",
+    "titleLine2": "助力初创企业成长",
+    "titleEn": "Focus on Foreign Representative Office Registration",
+    "titleLine2En": "Supporting Startup Business Growth",
+    "subtitle": "东莞中元华信财税服务有限公司，为初创小微企业提供专业、高效的公司注册、税务筹划与税务合规服务",
+    "subtitleEn": "Professional company registration, tax planning & compliance services for startups and small businesses",
+    "ctaPrimary": "免费咨询",
+    "ctaPrimaryEn": "Free Consultation",
+    "ctaSecondary": "了解服务",
+    "ctaSecondaryEn": "Our Services"
+  },
+  "about": {
+    "title": "为什么选择我们",
+    "titleEn": "Why Choose Us",
+    "intro": "东莞中元华信财税服务有限公司，深耕财税服务领域多年，特别擅长外资代表处业务，是初创小微企业值得信赖的财税合作伙伴。",
+    "introEn": "Years of expertise in finance and tax services, specializing in foreign representative offices - a trusted partner for startups.",
+    "features": [
+      {
+        "icon": "specialist",
+        "title": "外资专长",
+        "titleEn": "Foreign Business Expert",
+        "desc": "精通外资代表处注册流程，成功案例丰富",
+        "descEn": "Expert in foreign representative office registration with extensive experience"
+      },
+      {
+        "icon": "team",
+        "title": "专业团队",
+        "titleEn": "Professional Team",
+        "desc": "资深注册会计师与税务师组成的专业团队",
+        "descEn": "Team of senior CPAs and tax specialists"
+      },
+      {
+        "icon": "service",
+        "title": "贴心服务",
+        "titleEn": "Personalized Service",
+        "desc": "一对一专属顾问，全程跟踪服务",
+        "descEn": "Dedicated consultant, full-process tracking"
+      },
+      {
+        "icon": "compliance",
+        "title": "合规保障",
+        "titleEn": "Compliance Assurance",
+        "desc": "严格遵循法规，确保企业财税安全",
+        "descEn": "Strict regulatory compliance for financial security"
+      }
+    ],
+    "stats": [
+      { "value": "500+", "label": "服务外资企业", "labelEn": "Foreign Enterprises Served" },
+      { "value": "2000+", "label": "初创企业客户", "labelEn": "Startup Clients" },
+      { "value": "99.5%", "label": "客户好评率", "labelEn": "Customer Satisfaction" },
+      { "value": "10+", "label": "年行业经验", "labelEn": "Years Experience" }
+    ]
+  },
+  "cta": {
+    "title": "立即咨询，获取免费财税诊断",
+    "titleEn": "Get Your Free Tax Assessment Today",
+    "subtitle": "前10名咨询客户可享受免费税务健康检查一次",
+    "subtitleEn": "First 10 clients get a free tax health check",
+    "btnPhone": "拨打电话",
+    "btnPhoneEn": "Call Now",
+    "btnWechat": "微信咨询",
+    "btnWechatEn": "WeChat"
+  },
+  "footer": {
+    "brand": {
+      "title": "中元华信财税",
+      "desc": "专注初创小微企业财税服务",
+      "descLine2": "擅长外资代表处业务",
+      "descEn": "Finance & tax services for startups",
+      "descLine2En": "Specializing in foreign representative offices"
+    },
+    "quickLinks": {
+      "title": "快速链接",
+      "titleEn": "Quick Links"
+    },
+    "services": {
+      "title": "服务项目",
+      "titleEn": "Services"
+    },
+    "contact": {
+      "title": "联系方式",
+      "titleEn": "Contact"
+    }
+  },
+  "languages": [
+    { "code": "zh", "label": "中文", "active": true },
+    { "code": "en", "label": "English", "active": false }
+  ]
+}

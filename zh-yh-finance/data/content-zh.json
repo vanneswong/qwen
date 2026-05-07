@@ -1,0 +1,80 @@
+{
+  "lang": "zh",
+  "direction": "ltr",
+  "labels": {
+    "phoneConsult": "电话咨询",
+    "wechatConsult": "微信咨询",
+    "freeConsult": "免费咨询",
+    "learnMore": "了解服务",
+    "submit": "提交咨询",
+    "viewDetails": "查看详情",
+    "readMore": "阅读更多",
+    "allCategories": "全部",
+    "recentNews": "最新资讯",
+    "relatedArticles": "相关文章",
+    "materialsRequired": "所需材料",
+    "serviceProcess": "服务流程",
+    "faq": "常见问题",
+    "selectService": "选择服务",
+    "generateMaterials": "生成材料清单",
+    "estimateFee": "估算费用",
+    "feeRange": "费用区间",
+    "estimatedDuration": "预计时长",
+    "backHome": "返回首页",
+    "languageSwitch": "切换语言",
+    "form": {
+      "name": "姓名",
+      "phone": "电话",
+      "company": "公司名称",
+      "service": "感兴趣的服务",
+      "message": "留言内容",
+      "placeholder": {
+        "name": "请输入您的姓名",
+        "phone": "请输入您的联系电话",
+        "company": "请输入公司名称（选填）",
+        "service": "请选择服务项目",
+        "message": "请简要描述您的需求"
+      },
+      "other": "其他咨询",
+      "success": "提交成功！我们将尽快与您联系",
+      "error": "请填写姓名和电话"
+    },
+    "footer": {
+      "copyright": "版权所有",
+      "icp": "备案号"
+    },
+    "notifications": {
+      "success": "提交成功！我们将尽快与您联系",
+      "error": "请填写姓名和电话"
+    },
+    "serviceSelector": {
+      "title": "选择您需要的服务组合",
+      "subtitle": "勾选需要的服务，自动生成材料清单和费用估算",
+      "selected": "已选服务",
+      "noneSelected": "请至少选择一项服务",
+      "calculate": "计算费用"
+    },
+    "blog": {
+      "pageTitle": "资讯动态",
+      "pageSubtitle": "行业新闻、政策解读、专业知识分享",
+      "noArticles": "暂无相关文章",
+      "filterBy": "按分类筛选"
+    }
+  },
+  "seo": {
+    "index": {
+      "title": "东莞中元华信财税服务 - 专注外资代表处注册与税务合规",
+      "description": "东莞中元华信财税服务有限公司，专注初创小微企业服务，擅长外资代表处注册、税务筹划与税务合规。专业团队为您提供一站式财税解决方案。",
+      "keywords": "东莞财税服务，外资代表处注册，税务筹划，税务合规，公司注册，东莞代理记账，初创企业财税"
+    },
+    "blog": {
+      "title": "资讯动态 - 东莞中元华信财税服务",
+      "description": "财税行业最新资讯、政策解读、专业知识分享，助您把握行业动态。",
+      "keywords": "财税资讯，政策解读，税务知识，行业动态"
+    },
+    "serviceDetail": {
+      "titleTemplate": "{title} - 东莞中元华信财税服务",
+      "descriptionTemplate": "{summary}"
+    }
+  }
+}
